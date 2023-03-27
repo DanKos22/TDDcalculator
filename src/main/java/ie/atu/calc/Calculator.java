@@ -17,4 +17,9 @@ public class Calculator
     {
         return(firstNum - secondNum);
     }
+
+    public float divide(float firstNum, float secondNum)
+    {
+        return(firstNum / secondNum);
+    }
 }
